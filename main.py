@@ -6,3 +6,4 @@ def calculate():
     result = 10 / 0  
     return result
 #v1.1.1 - Баг: деление на ноль
+print("сколько тебе лет ")
